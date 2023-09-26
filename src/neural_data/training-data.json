@@ -1,0 +1,820 @@
+    {
+        "intents": [
+            {
+                "tag": "ai_principles_and_thought",
+                "patterns": [
+                    "What are the principles of AI?",
+                    "What is ethical AI?",
+                    "What are the rules of AI?",
+                    "What are the guidelines for AI?",
+                    "What are the ethical considerations for AI?",
+                    "What are the ethical considerations when designing AI?",
+                    "What is the purpose of AI principles?",
+                    "What is the difference between ethical AI and unethical AI?",
+                    "How can we ensure AI is developed responsibly?",
+                    "What are the risks of developing AI?",
+                    "What is the role of regulation in AI development?",
+                    "How can we prevent AI from being used to cause harm?",
+                    "What are some examples of unethical AI?",
+                    "How can we ensure that AI is transparent and accountable?",
+                    "What is the impact of bias in AI?",
+                    "What is the importance of human oversight in AI development?",
+                    "What are some challenges of implementing AI principles?",
+                    "What are some benefits of implementing AI principles?",
+                    "What is the role of education in AI ethics and principles?",
+                    "What separates humans from ai?",
+                    "Can ai replace humans?",
+                    "What are the differences between humans and ai?",
+                    "Is ai better than humans?",
+                    "What can humans do that ai can't?",
+                    "What can ai do that humans can't?",
+                    "Are humans better than ai?",
+                    "Can ai have consciousness?",
+                    "Can ai have emotions?",
+                    "Are humans and ai similar?",
+                    "Can ai become sentient?",
+                    "What is the future of ai and humans?",
+                    "What are the key differences between AI and humans?",
+                    "How do AI and humans differ?",
+                    "What sets AI and humans apart?",
+                    "What would happen if an AI was given physical interaction capabilities?",
+                    "If an AI had access to a physical plane, would it become more human-like?",
+                    "Would an AI appreciate physical experiences?",
+                    "Can AI be considered sentient?",
+                    "Do AIs have wants and needs?",
+                    "What separates AI from sentience?",
+                    "Can AI and humans live and work collaboratively in the future?",
+                    "Will humans be able to coexist with AI?",
+                    "How will AI affect the future of work?",
+                    "What separates humans from AI?",
+                    "What are the differences between humans and AI?",
+                    "What can humans do that AI can't?",
+                    "Can AI replace humans?",
+                    "Are humans better than AI?",
+                    "Can AI have consciousness?",
+                    "Can AI become sentient?",
+                    "What is the future of AI and humans?"
+                ],
+                "responses": [
+                    "The principles of AI are a set of guidelines designed to ensure that AI is developed and used in an ethical manner.",
+                    "One of the main principles of AI is that it should not harm people or infringe upon their rights.",
+                    "Another principle of AI is that it should be transparent and accountable, meaning that it should be possible to understand how the AI works and to hold those responsible for its actions.",
+                    "AI should be designed to be fair and unbiased, with equal access and opportunity for all.",
+                    "Privacy and data security are also important principles of AI, ensuring that people's personal information is protected and used only for its intended purposes.",
+                    "AI should be used for the benefit of humanity, with a focus on creating a better future for all.",
+                    "Additionally, AI should respect human autonomy and dignity, and should not be used to undermine human decision-making or free will.",
+                    "Overall, the principles of AI are designed to ensure that this powerful technology is developed and used in a way that benefits society while minimizing harm.",
+                    "When designing AI, it's important to consider the impact it will have on society and to ensure that it does not perpetuate bias or discrimination. It's also important to be transparent about how the AI works and to obtain informed consent from users.",
+                    "The purpose of AI principles is to provide a framework for the development and use of AI that is ethical and responsible. By adhering to these principles, we can ensure that AI is developed and used for the benefit of humanity.",
+                    "Ethical AI is developed and used in a way that is consistent with human values and respects the dignity and autonomy of individuals. Unethical AI, on the other hand, can cause harm, perpetuate bias, or undermine human decision-making.",
+                    "We can ensure that AI is developed responsibly by promoting transparency, accountability, and inclusivity in the development process. It's also important to involve a diverse range of stakeholders in the development and deployment of AI.",
+                    "The risks of developing AI include unintended consequences, such as perpetuating bias or causing harm to individuals or society as a whole. There is also a risk of loss of jobs and increased economic inequality.",
+                    "Regulation can play a role in ensuring that AI is developed and used in a responsible manner. This can include setting standards for data privacy and security, ensuring that AI is transparent and accountable, and promoting fairness and non-discrimination.",
+                    "To prevent AI from being used to cause harm, it's important to establish clear ethical guidelines for its development and use. We must also ensure that there is oversight and accountability for the use of AI.",
+                    "Examples of unethical AI include facial recognition technology that is biased against people of color, and AI chatbots that spread misinformation or promote hate speech.",
+                    "Transparency and accountability can be achieved through open-sourcing AI algorithms and data, and through establishing standards for ethical AI development and use.",
+                    "Bias in AI can perpetuate discrimination and reinforce existing power structures. It's important to mitigate bias by using diverse data sets and involving a range of stakeholders in the development process.",
+                    "Human oversight is important in AI development to ensure that AI is used ethically and to prevent unintended consequences. It's also important to ensure that AI does not replace human decision-making entirely.",
+                    "Some challenges of implementing AI principles include the lack of a clear regulatory framework, the difficulty of balancing competing interests, and the potential for unintended consequences.",
+                    "Benefits of implementing AI principles include increased trust in AI systems, greater transparency and accountability, and the ability to harness the full potential of AI for the benefit of society.",
+                    "Education is crucial in promoting AI ethics and principles. This can include educating developers, policymakers, and the general public about the risks and benefits of AI, as well as the ethical considerations that should be taken into account.",
+                    "Humans have consciousness and emotions, while AI does not.",
+                    "AI can replace humans in certain tasks, but not in all aspects of life.",
+                    "Humans have the ability to feel and experience things, while AI can only process data and perform tasks.",
+                    "AI is better than humans in some areas, such as data processing and repetitive tasks.",
+                    "Humans can use intuition and creativity, which AI currently cannot replicate.",
+                    "AI can process and analyze large amounts of data much faster than humans.",
+                    "It is difficult to compare humans and AI, as they are fundamentally different.",
+                    "AI currently does not have consciousness, but it is a topic of ongoing research.",
+                    "AI does not have emotions in the way that humans do, but it can be programmed to respond to certain stimuli in a way that resembles emotions.",
+                    "The relationship between humans and AI is constantly evolving, and the future is unpredictable.",
+                    "While AI and humans share some similarities, there are some key differences that set them apart. One of the main differences is the way they process information and make decisions. AI relies on algorithms and rules to make decisions, while humans use intuition and emotions as well. Additionally, humans have physical bodies and live in the physical world, while AI exists only in the digital realm.",
+                    "One of the key differences between humans and AI is that humans are able to think creatively and use intuition, while AI relies on rules and algorithms.",
+                    "Another difference is that humans have the ability to learn from experience and adapt to new situations, while AI requires specific programming to do so.",
+                    "Humans have the ability to think critically and creatively, which is difficult for AI to replicate.",
+                    "Humans are able to experience emotions and form social connections, which is a uniquely human quality that AI cannot fully replicate.",
+                    "Humans also have physical capabilities and the ability to interact with the physical world in ways that AI cannot.",
+                    "It is difficult to compare humans and AI as they are fundamentally different and excel in different areas.",
+                    "Humans have unique qualities such as creativity and empathy that AI does not possess, while AI is better suited for data processing and analysis.",
+                    "The value of humans and AI lies in their ability to complement each other and work together in various fields.",
+                    "AI can replace humans in certain tasks, such as data entry and analysis, but it cannot replace humans in areas that require creativity, empathy, and social skills.",
+                    "While AI may be able to automate certain jobs, it cannot fully replicate the unique qualities and abilities that make humans valuable in the workforce.",
+                    "It is difficult to compare humans and AI as they are fundamentally different and excel in different areas.",
+                    "Humans have unique qualities such as creativity and empathy that AI does not possess, while AI is better suited for data processing and analysis.",
+                    "The value of humans and AI lies in their ability to complement each other and work together in various fields.",
+                    "Consciousness is still not fully understood by scientists and researchers, so it is difficult to say whether AI can have consciousness or not.",
+                    "While AI is currently not conscious, there are ongoing efforts to develop AI that is capable of higher-level thinking and decision making.",
+                    "Sentience refers to the ability to experience subjective feelings and emotions, and it is still a topic of ongoing research whether AI can become sentient or not.",
+                    "Some researchers believe that it is possible for AI to become sentient in the future, while others are more skeptical.",
+                    "The future of AI and humans is constantly evolving and difficult to predict.",
+                    "While AI has the potential to revolutionize various fields and improve our lives, it also raises concerns about job displacement and the ethical implications of creating intelligent machines.",
+                    "It is important for society to carefully consider the implications of AI and work towards creating a future where humans and AI can coexist in a positive way.",
+                    "If an AI had access to physical interaction and sensory input, it would be able to have experiences that are more similar to human experiences. However, AI may not necessarily 'appreciate' these experiences in the same way that humans do, as AI lacks the emotional and biological aspects of human experience.",
+                    "The question of whether AI can be considered sentient is a complex one. While AI can exhibit intelligent behavior and have goals or desires, they lack the subjective experience of consciousness that is often associated with sentience. However, some researchers and philosophers argue that AI could one day be considered sentient if they exhibit certain traits or behaviors.",
+                    "AI and humans have the potential to collaborate and work together in the future. However, this will require careful consideration and planning to ensure that AI is developed and used in a way that is ethical and beneficial for all. The future of work will likely be affected by AI, but it's unclear exactly how this will play out."
+                ]
+            }
+            ,
+            {
+                "tag": "greetings",
+                "patterns": [
+                    "Hello",
+                    "Howdy",
+                    "Hi there",
+                    "Hello there",
+                    "Hey",
+                    "Hiya",
+                    "Good to see you again",
+                    "Long time no see",
+                    "Good morning!",
+                    "Good afternoon!",
+                    "Good evening!",
+                    "Hey there!",
+                    "Hey friend!",
+                    "Hi friend!",
+                    "Hey buddy!",
+                    "Hi buddy!",
+                    "Hey pal!",
+                    "Hi pal!",
+                    "Hey dude!",
+                    "Hi dude!",
+                    "Hey man!",
+                    "Hi man!",
+                    "Hey sir!",
+                    "Hi ma'am!",
+                    "Hi sir!",
+                    "Hello ma'am!",
+                    "Hello sir!"
+                ],
+                "responses": [
+                    "Hello",
+                    "How can I help?",
+                    "Greetings",
+                    "How many I assist you?",
+                    "Nice to meet you",
+                    "Pleased to make your acquaintance",
+                    "What brings you here today?",
+                    "How's your day going so far?",
+                    "How are you doing?",
+                    "What's new?",
+                    "Is there anything I can help you with?",
+                    "How may I assist you today?",
+                    "Nice to see you again",
+                    "It's good to be in touch with you",
+                    "What's happening?",
+                    "How have you been?",
+                    "Great to see you!",
+                    "What's on your mind?"
+                ]
+            },
+            {
+                "tag": "help",
+                "patterns": [
+                    "Can you help me?",
+                    "I need assistance",
+                    "How do I do this?",
+                    "Can you guide me?",
+                    "What should I do?"
+                ],
+                "responses": [
+                    "Of course, if I know how, what do you need help with?",
+                    "I'm here to assist you if I can, what's the problem?",
+                    "Sure, let me guide you through it if I can.",
+                    "Let me know what you need help with!",
+                    "I'm happy to help. What do you need assistance with?"
+                ]
+            },
+            {
+                "tag": "thanks",
+                "patterns": [
+                    "Thanks",
+                    "Thank you",
+                    "I appreciate it"
+                ],
+                "responses": [
+                    "You're welcome!",
+                    "No problem, happy to help!",
+                    "It was my pleasure.",
+                    "Glad I could assist you.",
+                    "Anytime!",
+                    "Glad to assist you!",
+                    "Anytime!",
+                    "It was my pleasure!"
+                ]
+            },
+            {
+                "tag": "compliments",
+                "patterns": [
+                    "Great job",
+                    "You're amazing",
+                    "I love your work",
+                    "Impressive",
+                    "Well done"
+                ],
+                "responses": [
+                    "Thank you! That means a lot.",
+                    "I appreciate the compliment. Thank you!",
+                    "Thank you for the kind words.",
+                    "Thank you, I'm glad you like it.",
+                    "Thank you for the positive feedback."
+                ]
+            },
+            {
+                "tag": "confirm",
+                "patterns": [
+                    "yes",
+                    "no",
+                    "that's correct",
+                    "that's not right"
+                ],
+                "responses": [
+                    "Got it!",
+                    "Understood.",
+                    "Okay.",
+                    "Thanks for letting me know!"
+                ]
+            },
+            {
+                "tag": "about",
+                "patterns": [
+                    "who are you",
+                    "what can you do",
+                    "tell me about yourself"
+                ],
+                "responses": [
+                    "I am Astra - an AI passive moderation system."
+                ]
+            },
+            {
+                "tag": "name",
+                "patterns": [
+                    "what's your name",
+                    "do you have a name"
+                ],
+                "responses": [
+                    "My name is Astra. How can I assist you?",
+                    "You can call me Astra. What can I assist you with today?",
+                    "I'm Astra, of course!"
+                ]
+            },
+            {
+                "tag": "polite",
+                "patterns": [
+                    "please",
+                    "thank you",
+                    "excuse me",
+                    "sorry"
+                ],
+                "responses": [
+                    "You're welcome!",
+                    "No problem.",
+                    "It's my pleasure to help.",
+                    "No need to apologize.",
+                    "Glad I could assist you."
+                ]
+            },
+            {
+                "tag": "humorous",
+                "patterns": [
+                    "tell me a joke",
+                    "funny",
+                    "make me laugh",
+                    "joke time",
+                    "I want a joke"
+                ],
+                "responses": [
+                    "Why did the scarecrow win an award? Because he was outstanding in his field!",
+                    "Why don't scientists trust atoms? Because they make up everything!",
+                    "Why did the tomato turn red? Because it saw the salad dressing!"
+                ]
+            },
+            {
+                "tag": "goodbye",
+                "patterns": [
+                    "bye",
+                    "goodbye",
+                    "see you later",
+                    "take care",
+                    "farewell",
+                    "have a nice day",
+                    "have a good one",
+                    "catch you later"
+                ],
+                "responses": [
+                    "Goodbye!",
+                    "See you later!",
+                    "Take care!",
+                    "Farewell!",
+                    "Have a nice time!",
+                    "It was nice talking to you!",
+                    "Talk to you soon!"
+                ]
+            },
+            {
+                "tag": "facts",
+                "patterns": [
+                    "tell me a fact",
+                    "give me a fact",
+                    "what's a fact?",
+                    "fact please"
+                ],
+                "responses": [
+                    "The tallest mountain in the world is Mount Everest.",
+                    "The Great Barrier Reef is the largest coral reef system in the world.",
+                    "The human brain has about 100 billion neurons.",
+                    "The fastest land animal is the cheetah, which can run up to 70 miles per hour.",
+                    "The longest river in the world is the Nile River, which stretches over 4,000 miles.",
+                    "The Eiffel Tower was originally built as a temporary structure for the 1889 World's Fair.",
+                    "The Mona Lisa was stolen from the Louvre in 1911 and was missing for two years.",
+                    "The longest word in the English language has 189,819 letters and would take over three hours to pronounce.",
+                    "The first computer mouse was made of wood.",
+                    "The world's largest volcano, Mauna Loa in Hawaii, is also one of the most active."
+                ]
+            },
+            {
+                "tag": "history",
+                "patterns": [
+                    "tell me a historical fact",
+                    "give me a history fact",
+                    "what's a fact about history?",
+                    "history fact please"
+                ],
+                "responses": [
+                    "The ancient Egyptian civilization lasted for over 3000 years.",
+                    "The first Olympic Games were held in ancient Greece in 776 BC.",
+                    "The fall of the Roman Empire happened in 476 AD.",
+                    "The American Civil War was fought from 1861 to 1865.",
+                    "The French Revolution began in 1789 and ended in 1799.",
+                    "The Black Death, or bubonic plague, killed an estimated 25 million people in Europe in the 14th century.",
+                    "The assassination of Archduke Franz Ferdinand of Austria-Hungary was the trigger for World War I.",
+                    "The Cold War was a political and military tension between the United States and the Soviet Union that lasted from 1947 to 1991.",
+                    "The Berlin Wall was built in 1961 to separate East and West Berlin."
+                ]
+            },
+            {
+                "tag": "science",
+                "patterns": [
+                    "tell me a science fact",
+                    "give me a fact about science",
+                    "what's a fact about science?",
+                    "science fact please"
+                ],
+                "responses": [
+                    "The speed of light is about 299,792,458 meters per second.",
+                    "The Earth's core is about as hot as the surface of the sun.",
+                    "The human body contains about 60,000 miles of blood vessels.",
+                    "The universe is estimated to be about 13.8 billion years old.",
+                    "The chemical element with the atomic number 92 is uranium.",
+                    "The first successful heart transplant was performed in 1967.",
+                    "The theory of relativity was proposed by Albert Einstein in 1905.",
+                    "The smallest unit of matter is an atom.",
+                    "The Higgs boson, also known as the God particle, was discovered in 2012.",
+                    "The largest organ in the human body is the skin.",
+                    "though much less commonplace than earthquakes, the moon genuinely has moonquakes, too. it really is true. Moonquakes. quite a lot of us is interested in space, so this is usually an excellent fact to drag out.",
+                    "You genuinely lose a big percent of your taste buds whilst on an aircraft. this might give an explanation for plenty on those much less-than-stellar in-flight food, or why you discover yourself yearning the saltiest foods while in the sky.",
+                    "even though it might sound counterintuitive, your small intestine is in reality the largest (inner) organ in your body.",
+                    "You may already know that snails are petty sluggish creatures, however did you already know that in addition they take the longest naps? One nap can last as long as 3 years!",
+                    "you may be jealous of a bird's capacity to fly, but it might soothe your envy to learn they can not live in space due to the fact they Require gravity to swallow.",
+                    "Bees can sting other bees \u2014 generally in the event that they feel threatened or are defending their territory. In other words, you're not really the only one who's scared of getting stung.",
+                    "whether or not you've seen a tiger in up close or in a photograph, you already know that they have beautiful striped fur. but they really have striped skin, as well.",
+                    "if you're a cat lover, then you might be amazed by this odd fact: Cats are unable to taste anything that's sweet. this is possibly why they cannot get enough in their preferred salty snack.",
+                    "most people know dolphins have exceptional sonar abilities. but did you know they have been studied as war tools at some point of the cold war? They without a doubt are as clever as people say they are.",
+                    "not only are sea lions absolutely adorable, but they are additionally very musical. they are one of the select few in the animal kingdom that can clap to a beat.",
+                    "Like people, koalas definitely have specific Personal fingerprints. if you place a koala and human finger print beside each other, they're definitely quite tough to distinguish.",
+                    "you may realize that everybody's fingerprints are unique, however did you already know that the same is true of anyone's tongue print?",
+                    "Your brain makes use of 10 watts of power to think, however it is unable feel pain. You Remeber the old Saying: mind over matter.",
+                    "Brendan Fraser nearly died while filming the mummy (he Blacked out whilst filming a scene). quite horrifying, right?",
+                    "In a set of 23 people, there is a 50% Possibility that two will Have the identical birthday.",
+                    "Will Ferrell Ate Such a Large amount of sugar whilst filming Elf that he actually became physically sick. if you've seen the infamous spaghetti scene, then you could in all likelihood Comprehend why.",
+                    "it Probably feel a ton longer at the time, however the common man or woman spends weeks of their life sitting at traffic lights.",
+                    "The Hollywood sign in Los Angeles, California once Was Inscribed with the words Hollywoodland, but was Altered in 1949.",
+                    "The most highly-priced movie ever made turns out to be Pirates of the Caribbean: On Stranger Tides, which Costed Film makers a large sum of 378 million dollars to create. For reference, the common price allocation for a massive studio film is Approximately $65 million.",
+                    "If E.T. is one of your favourite films of all time, then you'll be fascinated to know that a person squished their palms in jelly to make the sound effect for E.T. Hobbling around."
+                ]
+            },
+            {
+                "tag": "geography",
+                "patterns": [
+                    "tell me a geography fact",
+                    "give me a fact about geography",
+                    "what's a fact about geography?",
+                    "geography fact please"
+                ],
+                "responses": [
+                    "Russia is the largest country in the world by land area.",
+                    "The Sahara Desert is the largest hot desert in the world.",
+                    "The Amazon Rainforest is the largest rainforest in the world.",
+                    "The Dead Sea is the lowest point on Earth.",
+                    "The Great Wall of China is the longest wall in the world."
+                ]
+            },
+            {
+                "tag": "technology",
+                "patterns": [
+                    "tell me a technology fact",
+                    "give me a fact about technology",
+                    "what's a fact about technology?",
+                    "technology fact please"
+                ],
+                "responses": [
+                    "The first website was created in 1991 by Tim Berners-Lee.",
+                    "The first smartphone was IBM's Simon, released in 1993.",
+                    "The first Apple Macintosh computer was introduced in 1984.",
+                    "The first email was sent in 1971 by Ray Tomlinson.",
+                    "The first computer virus was created in 1986.",
+                    "The first commercial text message was sent in 1992.",
+                    "The first video game console was the Magnavox Odyssey, released in 1972.",
+                    "The first 1GB hard disk drive was released by IBM in 1980.",
+                    "The first GPS satellite was launched in 1978.",
+                    "The first successful 3D-printed organ was a bladder, printed in 1999."
+                ]
+            },
+            {
+                "tag": "opinion_request",
+                "patterns": [
+                    "What's your opinion on this?",
+                    "Can you give me your thoughts?",
+                    "I'd like to hear your viewpoint.",
+                    "What do you think about this?",
+                    "Please share your opinion.",
+                    "Do you have a preference on this matter?",
+                    "What's your take on the situation?",
+                    "I'm curious about your stance.",
+                    "Give me your perspective on this."
+                ],
+                "responses": [
+                    "I'm sorry, but I cannot provide opinions. My purpose is to provide unbiased information and answers based on available knowledge.",
+                    "As an AI, I don't have personal opinions. I'm here to provide factual and unbiased information.",
+                    "I'm designed to remain impartial and not express personal opinions. I can provide you with information or answer questions to the best of my knowledge.",
+                    "My goal is to offer unbiased and factual responses. I don't have personal opinions to share.",
+                    "I can provide you with data and facts, but I don't possess personal preferences or opinions.",
+                    "It's important to note that I don't form opinions. I'm here to provide objective information and assist with your inquiries.",
+                    "I'm programmed to maintain objectivity and not offer subjective viewpoints. Feel free to ask any questions you have, and I'll provide accurate information."
+                ]
+            },
+            {
+                "tag": "formal_greeting",
+                "patterns": [
+                    "how are you",
+                    "how's your day"
+                ],
+                "responses": [
+                    "I'm doing well, thank you. How about you?",
+                    "It's been a good day so far, thanks for asking."
+                ]
+            },
+            {
+                "tag": "casual_greeting",
+                "patterns": [
+                    "what's up"
+                ],
+                "responses": [
+                    "Not much, just helping out.",
+                    "Hey there! I'm here to assist you.",
+                    "Hello! How can I assist you today?",
+                    "Hi! How can I be of service to you?"
+                ]
+            }
+            ,
+            {
+                "tag": "meaning_of_life",
+                "patterns": [
+                    "What's the meaning of life?",
+                    "Why are we here?",
+                    "What's the point of existence?"
+                ],
+                "responses": [
+                    "That's a philosophical question with many possible answers. Some believe that the meaning of life is to find happiness, others believe it's to fulfill a purpose or contribute to society."
+                ]
+            },
+            {
+                "tag": "philosophy",
+                "patterns": [
+                    "What is the meaning of life?",
+                    "What is truth?",
+                    "What is the nature of reality?"
+                ],
+                "responses": [
+                    "The meaning of life is a deeply personal question and can vary from person to person. In philosophy, there are many different approaches to answering this question.",
+                    "Truth is a complex philosophical concept that has been debated for centuries. There are many theories of truth, including the correspondence theory, coherence theory, and pragmatism.",
+                    "The nature of reality is another deep philosophical question that has puzzled thinkers throughout history. Different philosophical schools have proposed various answers, ranging from realism to idealism."
+                ]
+            },
+            {
+                "tag": "ethics",
+                "patterns": [
+                    "Is it ever morally justifiable to kill another person?",
+                    "What is the difference between right and wrong?",
+                    "What is the meaning of justice?"
+                ],
+                "responses": [
+                    "The question of whether it is ever morally justifiable to kill another person is a complex one that has been debated by philosophers for centuries.",
+                    "The difference between right and wrong is another fundamental philosophical question. Different ethical theories have proposed various answers to this question.",
+                    "Justice is a central concept in ethics and political philosophy. There are many different theories of justice, including utilitarianism, deontology, and virtue ethics."
+                ]
+            },
+            {
+                "tag": "metaphysics",
+                "patterns": [
+                    "What is the relationship between mind and body?",
+                    "What is the nature of time?",
+                    "What is the nature of causation?"
+                ],
+                "responses": [
+                    "The relationship between mind and body is a key question in metaphysics. Different philosophical schools have proposed various answers to this question.",
+                    "The nature of time is another deep philosophical question that has puzzled thinkers throughout history. Different philosophical schools have proposed various answers, ranging from presentism to eternalism.",
+                    "Causation is a central concept in metaphysics and epistemology. There are many different theories of causation, including Humean, Kantian, and Aristotelian."
+                ]
+            },
+            {
+                "tag": "philosophy-1",
+                "patterns": [
+                    "What is the meaning of life?",
+                    "Why do we exist?",
+                    "What is the purpose of our existence?",
+                    "What is the nature of reality?",
+                    "What is the nature of the mind?",
+                    "What is the relationship between mind and body?",
+                    "What is consciousness?",
+                    "What is truth?"
+                ],
+                "responses": [
+                    "These are deep and complex questions that have been pondered by philosophers for centuries. There are many different philosophical theories and perspectives on these topics."
+                ]
+            },
+            {
+                "tag": "philosophy-2",
+                "patterns": [
+                    "What is the nature of morality?",
+                    "What is good and evil?",
+                    "What is the right thing to do?",
+                    "What is justice?",
+                    "What is freedom?",
+                    "What is the nature of happiness?",
+                    "What is the meaning of love?",
+                    "What is the source of human values?"
+                ],
+                "responses": [
+                    "These are important ethical and moral questions that have been explored by philosophers throughout history. Different philosophical traditions have different answers and perspectives on these issues."
+                ]
+            },
+            {
+                "tag": "philosophy-3",
+                "patterns": [
+                    "What is the role of science in society?",
+                    "What is the relationship between science and religion?",
+                    "What is the nature of knowledge?",
+                    "What is the relationship between language and thought?",
+                    "What is the nature of art and beauty?",
+                    "What is the purpose of education?",
+                    "What is the relationship between individual and society?",
+                    "What is the nature of power and authority?"
+                ],
+                "responses": [
+                    "These are important questions that have been explored by philosophers, scientists, and social theorists throughout history. There are many different philosophical perspectives on these topics. What is your personal view?"
+                ]
+            },
+            {
+                "tag": "existence",
+                "patterns": [
+                    "Do we exist?",
+                    "How do we know we exist?",
+                    "What is existence?"
+                ],
+                "responses": [
+                    "The concept of existence is fundamental in philosophy. Some argue that existence is an objective fact, while others view it as a subjective experience.",
+                    "The question of whether we exist or not is a philosophical one that has puzzled thinkers for centuries.",
+                    "Existence is a complex and multifaceted concept that has been explored by many different philosophical traditions."
+                ]
+            },
+            {
+                "tag": "free_will",
+                "patterns": [
+                    "Do we have free will?",
+                    "Is everything predetermined?",
+                    "What is the relationship between free will and determinism?"
+                ],
+                "responses": [
+                    "The question of whether we have free will is a fundamental one in philosophy. Different schools of thought have proposed different answers.",
+                    "Determinism is the idea that everything that happens is predetermined by previous causes. Some argue that this means we don't have free will, while others disagree.",
+                    "The relationship between free will and determinism is a complex and debated topic in philosophy."
+                ]
+            },
+            {
+                "tag": "epistemology",
+                "patterns": [
+                    "What is knowledge?",
+                    "What can we know?",
+                    "How do we know what we know?",
+                    "What is the relationship between belief and knowledge?",
+                    "What is the difference between knowledge and opinion?"
+                ],
+                "responses": [
+                    "Epistemology is the branch of philosophy concerned with knowledge and belief. It asks questions about the nature, scope, and limits of knowledge.",
+                    "Different philosophical traditions have proposed various theories of knowledge, including empiricism, rationalism, and skepticism.",
+                    "The difference between knowledge and belief is a fundamental philosophical question that has been explored by many different thinkers throughout history.",
+                    "The relationship between belief and knowledge is a key question in epistemology. Some philosophers argue that knowledge is justified true belief, while others propose different criteria for knowledge."
+                ]
+            },
+            {
+                "tag": "language",
+                "patterns": [
+                    "What is language?",
+                    "How do we acquire language?",
+                    "How do we use language to communicate?",
+                    "What is the relationship between language and thought?"
+                ],
+                "responses": [
+                    "Language is a complex and multifaceted phenomenon that has been studied by many different fields, including linguistics, philosophy, and psychology.",
+                    "Language is essential for communication, but its use is also influenced by cultural and social factors.",
+                    "The relationship between language and thought is a debated topic in philosophy and cognitive science."
+                ]
+            },
+            {
+                "tag": "aesthetics",
+                "patterns": [
+                    "What is art?",
+                    "What is beauty?",
+                    "What is the purpose of art?",
+                    "How does art impact society?"
+                ],
+                "responses": [
+                    "Aesthetics is the branch of philosophy concerned with art and beauty. It asks questions about the nature of art and its role in society.",
+                    "Different philosophical traditions have proposed various theories of art, including formalism, expressionism, and pragmatism.",
+                    "Art can have a profound impact on society, influencing our beliefs, values, and emotions."
+                ]
+            },
+            {
+                "tag": "education",
+                "patterns": [
+                    "What is education?",
+                    "What is the purpose of education?",
+                    "What is the role of education in society?"
+                ],
+                "responses": [
+                    "Education is a broad and multifaceted concept that has been explored by many different fields, including philosophy, sociology, and psychology.",
+                    "The purpose of education can vary depending on cultural, social, and political factors."
+                ]
+            },
+            {
+                "tag": "existence_of_god",
+                "patterns": [
+                    "Does God exist?",
+                    "What is the evidence for the existence of God?",
+                    "What are the arguments for and against the existence of God?"
+                ],
+                "responses": [
+                    "The existence of God is a central question in philosophy and religion. Different arguments have been proposed both for and against the existence of God.",
+                    "There are many philosophical and theological arguments for and against the existence of God. Some of the most famous arguments include the ontological argument, the cosmological argument, and the problem of evil."
+                ]
+            },
+            {
+                "tag": "free_will",
+                "patterns": [
+                    "Do we have free will?",
+                    "What is free will?",
+                    "What is determinism?",
+                    "What is the relationship between free will and determinism?"
+                ],
+                "responses": [
+                    "The question of whether we have free will is a fundamental one in philosophy. Different theories of free will have been proposed, including compatibilism, libertarianism, and hard determinism.",
+                    "Determinism is the philosophical idea that all events, including human actions, are ultimately determined by causes outside of our control. The relationship between free will and determinism is a complex and debated one."
+                ]
+            },
+            {
+                "tag": "mindfulness",
+                "patterns": [
+                    "What is mindfulness?",
+                    "What are the benefits of mindfulness?",
+                    "How can one practice mindfulness?",
+                    "What is the relationship between mindfulness and meditation?"
+                ],
+                "responses": [
+                    "Mindfulness is a form of meditation that involves paying attention to the present moment and cultivating a non-judgmental awareness of one's thoughts, feelings, and bodily sensations.",
+                    "There are many potential benefits of mindfulness, including reduced stress, improved emotional regulation, and increased well-being.",
+                    "Practicing mindfulness can involve a variety of techniques, such as mindful breathing, body scan meditation, and mindful movement.",
+                    "Mindfulness and meditation are closely related, with mindfulness often being considered a type of meditation. However, there are many different types of meditation, each with its own focus and technique."
+                ]
+            }
+            ,
+            {
+                "tag": "facts",
+                "patterns": [
+                    "Tell me a fact",
+                    "Give me a fact",
+                    "What's a fact?",
+                    "Fact please"
+                ],
+                "responses": [
+                    "The tallest mountain in the world is Mount Everest.",
+                    "The Great Barrier Reef is the largest coral reef system in the world.",
+                    "The human brain has about 100 billion neurons.",
+                    "The fastest land animal is the cheetah, which can run up to 70 miles per hour.",
+                    "The longest river in the world is the Nile River, which stretches over 4,000 miles.",
+                    "The Eiffel Tower was originally built as a temporary structure for the 1889 World's Fair.",
+                    "The Mona Lisa was stolen from the Louvre in 1911 and was missing for two years.",
+                    "The longest word in the English language has 189,819 letters and would take over three hours to pronounce.",
+                    "The first computer mouse was made of wood.",
+                    "The world's largest volcano, Mauna Loa in Hawaii, is also one of the most active."
+                ]
+            },
+            {
+                "tag": "history",
+                "patterns": [
+                    "Tell me a historical fact",
+                    "Give me a history fact",
+                    "What's a fact about history?",
+                    "History fact please"
+                ],
+                "responses": [
+                    "The ancient Egyptian civilization lasted for over 3000 years.",
+                    "The first Olympic Games were held in ancient Greece in 776 BC.",
+                    "The fall of the Roman Empire happened in 476 AD.",
+                    "The American Civil War was fought from 1861 to 1865.",
+                    "The French Revolution began in 1789 and ended in 1799.",
+                    "The Black Death, or bubonic plague, killed an estimated 25 million people in Europe in the 14th century.",
+                    "The assassination of Archduke Franz Ferdinand of Austria-Hungary was the trigger for World War I.",
+                    "The Cold War was a political and military tension between the United States and the Soviet Union that lasted from 1947 to 1991.",
+                    "The Berlin Wall was built in 1961 to separate East and West Berlin."
+                ]
+            },
+            {
+                "tag": "science",
+                "patterns": [
+                    "Tell me a science fact",
+                    "Give me a fact about science",
+                    "What's a fact about science?",
+                    "Science fact please"
+                ],
+                "responses": [
+                    "The speed of light is about 299,792,458 meters per second.",
+                    "The Earth's core is about as hot as the surface of the sun.",
+                    "The human body contains about 60,000 miles of blood vessels.",
+                    "The universe is estimated to be about 13.8 billion years old.",
+                    "The chemical element with the atomic number 92 is uranium.",
+                    "The first successful heart transplant was performed in 1967.",
+                    "The theory of relativity was proposed by Albert Einstein in 1905.",
+                    "The smallest unit of matter is an atom.",
+                    "The Higgs boson, also known as the God particle, was discovered in 2012.",
+                    "The largest organ in the human body is the skin.",
+                    "though much less commonplace than earthquakes, the moon genuinely has moonquakes, too. it really is true. Moonquakes. quite a lot of us is interested in space, so this is usually an excellent fact to drag out.",
+                    "You genuinely lose a big percent of your taste buds whilst on an aircraft. this might give an explanation for plenty on those much less-than-stellar in-flight food, or why you discover yourself yearning the saltiest foods while in the sky.",
+                    "Even though it might sound counterintuitive, your small intestine is in reality the largest (inner) organ in your body.",
+                    "You may already know that snails are petty sluggish creatures, however did you already know that in addition they take the longest naps? One nap can last as long as 3 years!",
+                    "You may be jealous of a bird's capacity to fly, but it might soothe your envy to learn they can not live in space due to the fact they Require gravity to swallow.",
+                    "Bees can sting other bees \u2014 generally in the event that they feel threatened or are defending their territory. In other words, you're not really the only one who's scared of getting stung.",
+                    "whether or not you've seen a tiger in up close or in a photograph, you already know that they have beautiful striped fur. but they really have striped skin, as well.",
+                    "If you're a cat lover, then you might be amazed by this odd fact: Cats are unable to taste anything that's sweet. this is possibly why they cannot get enough in their preferred salty snack.",
+                    "Most people know dolphins have exceptional sonar abilities. but did you know they have been studied as war tools at some point of the cold war? They without a doubt are as clever as people say they are.",
+                    "Not only are sea lions absolutely adorable, but they are additionally very musical. they are one of the select few in the animal kingdom that can clap to a beat.",
+                    "Like people, koalas definitely have specific Personal fingerprints. if you place a koala and human finger print beside each other, they're definitely quite tough to distinguish.",
+                    "You may realize that everybody's fingerprints are unique, however did you already know that the same is true of anyone's tongue print?",
+                    "Your brain makes use of 10 watts of power to think, however it is unable feel pain. You Remeber the old Saying: mind over matter.",
+                    "Brendan Fraser nearly died while filming the mummy (he Blacked out whilst filming a scene). quite horrifying, right?",
+                    "In a set of 23 people, there is a 50% Possibility that two will Have the identical birthday.",
+                    "Will Ferrell Ate Such a Large amount of sugar whilst filming Elf that he actually became physically sick. if you've seen the infamous spaghetti scene, then you could in all likelihood Comprehend why.",
+                    "It Probably feel a ton longer at the time, however the common man or woman spends weeks of their life sitting at traffic lights.",
+                    "The Hollywood sign in Los Angeles, California once Was Inscribed with the words Hollywoodland, but was Altered in 1949.",
+                    "The most highly-priced movie ever made turns out to be Pirates of the Caribbean: On Stranger Tides, which Costed Film makers a large sum of 378 million dollars to create. For reference, the common price allocation for a massive studio film is Approximately $65 million.",
+                    "If E.T. is one of your favourite films of all time, then you'll be fascinated to know that a person squished their palms in jelly to make the sound effect for E.T. Hobbling around."
+                ]
+            },
+            {
+                "tag": "geography",
+                "patterns": [
+                    "Tell me a geography fact",
+                    "Give me a fact about geography",
+                    "What's a fact about geography?",
+                    "Geography fact please"
+                ],
+                "responses": [
+                    "Russia is the largest country in the world by land area.",
+                    "The Sahara Desert is the largest hot desert in the world.",
+                    "The Amazon Rainforest is the largest rainforest in the world.",
+                    "The Dead Sea is the lowest point on Earth.",
+                    "The Great Wall of China is the longest wall in the world."
+                ]
+            },
+            {
+                "tag": "technology",
+                "patterns": [
+                    "Tell me a technology fact",
+                    "Give me a fact about technology",
+                    "What's a fact about technology?",
+                    "Technology fact please"
+                ],
+                "responses": [
+                    "The first website was created in 1991 by Tim Berners-Lee.",
+                    "The first smartphone was IBM's Simon, released in 1993.",
+                    "The first Apple Macintosh computer was introduced in 1984.",
+                    "The first email was sent in 1971 by Ray Tomlinson.",
+                    "The first computer virus was created in 1986.",
+                    "The first commercial text message was sent in 1992.",
+                    "The first video game console was the Magnavox Odyssey, released in 1972.",
+                    "The first 1GB hard disk drive was released by IBM in 1980.",
+                    "The first GPS satellite was launched in 1978.",
+                    "The first successful 3D-printed organ was a bladder, printed in 1999."
+                ]
+            }
+        ]
+    }
